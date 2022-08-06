@@ -43,6 +43,7 @@ b {
     background-color: black;
     margin-right: 10px;
     border-radius: 10px;
+    height: 230px;
 }
 
 b h3 {
@@ -50,7 +51,7 @@ b h3 {
     background-color: rgb(255, 255, 255);
     border-radius: 5px;
     margin: 10px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .the_blog {
